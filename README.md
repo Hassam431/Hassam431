@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Syed Hassam Ul Haq</h1>
-<h3 align="center">A passionate junior flutter developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<h1 align="center"> Hii 👋, I am SYED HASSAM UL HAQ </h1>
+<h3 align="center">A passionate Junior Flutter Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 - 🔭 I’m currently working on [SpeakLE-English-Learning-Mobile-Application](https://github.com/Hassam431/SpeakL-English-learning-mobile-application-main.git)
 
